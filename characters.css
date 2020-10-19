@@ -1,0 +1,153 @@
+body{
+	background-color: grey;
+}
+ul{
+    overflow: hidden;
+    background-color: grey;
+    margin: 10px;
+    padding: 15px;
+}
+li{
+	 float: left;
+}
+li a{
+    display: block;/*display each clickable list item as a block*/
+    text-align: center;/*align all text in the center*/
+    color: gold;
+    padding: 20px 100px;
+}
+
+/*when the user hovers on the link change the background*/
+li a:hover{
+    background-color: orange;
+}
+h1{
+    margin-left: 600px;
+    margin-bottom: 50px;
+}
+
+
+.gandalf{
+    float: left;
+    border-style: solid;
+    width: 400px;
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    border-radius: 30px;
+}
+
+.gandalf img{
+    width: 200px;
+    margin: 10px;
+}
+.gandalf h3{
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+
+.aragorn{
+    margin-left: 100px;
+    float: left;
+    border-style: solid;
+    width: 400px;
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    border-radius: 30px;
+}
+.aragorn h3{
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+.aragorn img{
+    width: 200px;
+    margin: 10px;
+}
+
+.gimli{
+    margin-left: 100px;
+    float: left;
+    border-style: solid;
+    width: 400px;
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    border-radius: 30px;
+}
+
+.gimli h3{
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+
+.gimli img{
+    width: 200px;
+    margin: 10px;
+}
+
+.frodo{
+    margin-top: 50px;
+    float: left;
+    width: 400px;
+    border-style: solid;
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    border-radius: 30px;
+}
+
+.frodo h3{
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+
+.frodo img{
+    width: 200px;
+    margin: 10px;
+}
+
+.sam{
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left;
+    width: 400px;
+    border-style: solid;
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    border-radius: 30px;
+}
+
+.sam h3{
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+
+.sam img{
+    width: 200px;
+    margin: 10px;
+}
+
+.gollum{
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left;
+    width: 400px;
+    border-style: solid;
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+.gollum h3{
+    width: 400px;
+    height: 100px;
+    overflow: scroll;
+}
+
+.gollum img{
+    width: 200px;
+    margin: 10px;
+}
+
+
+
+
+
+

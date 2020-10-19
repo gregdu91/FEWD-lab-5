@@ -1,0 +1,38 @@
+body{
+	background-color: grey;
+}
+ul{
+    overflow: hidden;
+    background-color: grey;
+    margin: 10px;
+    padding: 15px;
+}
+li{
+	 float: left;
+}
+li a{
+    display: block;/*display each clickable list item as a block*/
+    text-align: center;/*align all text in the center*/
+    color: gold;
+    padding: 20px 100px;
+}
+
+/*when the user hovers on the link change the background*/
+li a:hover{
+    background-color: orange;
+}
+
+
+.title{
+	margin-left: 550px;
+}
+
+.title img{
+	width: 300px;
+}
+
+.history{
+	margin-left: 30px;
+	padding: 10px;
+	border-style: solid;
+}
