@@ -6,14 +6,18 @@ ul{
     background-color: grey;
     margin: 10px;
     padding: 15px;
+   
 }
 li{
-	 float: left;
+     float: left;
+     list-style-type: none;
+     background-color: gold;
+     
 }
 li a{
     display: block;/*display each clickable list item as a block*/
     text-align: center;/*align all text in the center*/
-    color: gold;
+    color: grey;
     padding: 20px 100px;
 }
 
